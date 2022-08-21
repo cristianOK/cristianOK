@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, soy Cristian !!</h1>
-<h3 align="center">Soy un apasionante Jr BackEnd Developer desde Argentina !</h3>
+<h3 align="center">Soy un apasionante Jr Developer .NET desde Argentina !</h3>
 
 <p align="left"> <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif">
 
